@@ -1,0 +1,2 @@
+F:/David Projectes/Online-Bike-Shopping/android/app/.cxx/Debug/1y5z94h2/arm64-v8a/CMakeFiles/edit_cache.dir
+F:/David Projectes/Online-Bike-Shopping/android/app/.cxx/Debug/1y5z94h2/arm64-v8a/CMakeFiles/rebuild_cache.dir

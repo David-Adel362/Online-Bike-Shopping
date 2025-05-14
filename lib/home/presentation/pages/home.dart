@@ -61,7 +61,7 @@ class _HomeState extends State<Home> {
                     height: 220,
                     image: 'assets/images/Electric%20Bicycle.I05 2.png',
                   ),
-                  SizedBox(height: 60),
+                  SizedBox(height: 100),
                   CustomButton(),
                   ProductGrid(
                     imageCard: 'assets/images/mikkel-bech-yjAFnkLtKY0-unsplash-removebg-preview 3.png',

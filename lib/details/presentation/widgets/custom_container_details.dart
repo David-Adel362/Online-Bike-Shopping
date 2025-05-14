@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:online_bike_shopping/share_widget/colors.dart';
 import 'package:online_bike_shopping/shopping_bag/presentation/pages/my_shopping_cart.dart';
-import 'package:online_bike_shopping/shopping_bag/presentation/pages/shopping_page.dart';
-// import 'package:flutter_inset_box_shadow/flutter_inset_box_shadow.dart';
 
 class CustomContainerDetails extends StatefulWidget {
   const CustomContainerDetails({super.key});

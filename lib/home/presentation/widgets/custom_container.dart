@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../../../details/presentation/pages/details_page.dart';
 
 class CustomContainer extends StatelessWidget {
@@ -65,7 +64,8 @@ class CardPainter extends CustomPainter {
       ..lineTo(size.width - 20, 0) // خط مستقيم لأعلى اليمين
       ..quadraticBezierTo(size.width, 0, size.width, 20) // انحناء خفيف للزاوية العلوية اليمنى
       ..lineTo(size.width, size.height - 20) // خط مستقيم للأسفل
-      ..quadraticBezierTo(size.width, size.height, size.width - 20, size.height + 5) // انحناء خفيف للزاوية السفلية اليمنى
+      ..quadraticBezierTo(
+          size.width, size.height, size.width - 20, size.height + 5) // انحناء خفيف للزاوية السفلية اليمنى
       ..lineTo(35, size.height + 40) // خط مستقيم لليسار
       ..quadraticBezierTo(0, size.height + 45, 0, size.height + 20) // 🔥 انحناء مائل للأعلى في الزاوية السفلية اليسرى
       ..lineTo(0, 20) // خط مستقيم للأعلى
